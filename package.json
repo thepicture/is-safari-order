@@ -1,0 +1,23 @@
+{
+  "name": "is-safari-order",
+  "version": "0.0.0",
+  "description": "Checks if http header order is Safari",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "bot",
+    "http",
+    "order",
+    "safari",
+    "scraper",
+    "headers",
+    "iphone",
+    "ios",
+    "fingerprint",
+    "antifingerprint"
+  ],
+  "author": "thepicture",
+  "license": "ISC"
+}
