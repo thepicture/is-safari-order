@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Checks if http header order is Safari",
   "main": "index.js",
+  "repository": "thepicture/is-safari-order",
   "scripts": {
     "test": "node test"
   },
